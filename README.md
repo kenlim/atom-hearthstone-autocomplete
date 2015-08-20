@@ -1,4 +1,6 @@
 # hearthstone-card-autocomplete package
+![Hearthstone Card Autocomplete demo](/screenshots/hearthstone-card-autocomplete.gif "Hearthstone card autocomplete in action")
+
 
 Simple Hearthstone card name autocomplete tool.
 
