@@ -12,7 +12,7 @@ lines.foreach {line =>
 
   val quantityPlaceholder = items(1) match {
     case ("Legendary") => "*"
-    case _ => """${1:2}"""
+    case _ => """${1:1}"""
   }
 
   println (s""" "$cardName":""")

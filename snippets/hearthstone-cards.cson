@@ -1,583 +1,583 @@
-"*" :
+"*" : 
  "Elven Archer":
    "prefix" : "Elven Archer"
-   "body" : "Elven Archer ${1:2}"
+   "body" : "Elven Archer ${1:1}"
  "Goldshire Footman":
    "prefix" : "Goldshire Footman"
-   "body" : "Goldshire Footman ${1:2}"
+   "body" : "Goldshire Footman ${1:1}"
  "Grimscale Oracle":
    "prefix" : "Grimscale Oracle"
-   "body" : "Grimscale Oracle ${1:2}"
+   "body" : "Grimscale Oracle ${1:1}"
  "Murloc Raider":
    "prefix" : "Murloc Raider"
-   "body" : "Murloc Raider ${1:2}"
+   "body" : "Murloc Raider ${1:1}"
  "Stonetusk Boar":
    "prefix" : "Stonetusk Boar"
-   "body" : "Stonetusk Boar ${1:2}"
+   "body" : "Stonetusk Boar ${1:1}"
  "Voodoo Doctor":
    "prefix" : "Voodoo Doctor"
-   "body" : "Voodoo Doctor ${1:2}"
+   "body" : "Voodoo Doctor ${1:1}"
  "Acidic Swamp Ooze":
    "prefix" : "Acidic Swamp Ooze"
-   "body" : "Acidic Swamp Ooze ${1:2}"
+   "body" : "Acidic Swamp Ooze ${1:1}"
  "Bloodfen Raptor":
    "prefix" : "Bloodfen Raptor"
-   "body" : "Bloodfen Raptor ${1:2}"
+   "body" : "Bloodfen Raptor ${1:1}"
  "Bluegill Warrior":
    "prefix" : "Bluegill Warrior"
-   "body" : "Bluegill Warrior ${1:2}"
+   "body" : "Bluegill Warrior ${1:1}"
  "Frostwolf Grunt":
    "prefix" : "Frostwolf Grunt"
-   "body" : "Frostwolf Grunt ${1:2}"
+   "body" : "Frostwolf Grunt ${1:1}"
  "Kobold Geomancer":
    "prefix" : "Kobold Geomancer"
-   "body" : "Kobold Geomancer ${1:2}"
+   "body" : "Kobold Geomancer ${1:1}"
  "Murloc Tidehunter":
    "prefix" : "Murloc Tidehunter"
-   "body" : "Murloc Tidehunter ${1:2}"
+   "body" : "Murloc Tidehunter ${1:1}"
  "Novice Engineer":
    "prefix" : "Novice Engineer"
-   "body" : "Novice Engineer ${1:2}"
+   "body" : "Novice Engineer ${1:1}"
  "River Crocolisk":
    "prefix" : "River Crocolisk"
-   "body" : "River Crocolisk ${1:2}"
+   "body" : "River Crocolisk ${1:1}"
  "Dalaran Mage":
    "prefix" : "Dalaran Mage"
-   "body" : "Dalaran Mage ${1:2}"
+   "body" : "Dalaran Mage ${1:1}"
  "Ironforge Rifleman":
    "prefix" : "Ironforge Rifleman"
-   "body" : "Ironforge Rifleman ${1:2}"
+   "body" : "Ironforge Rifleman ${1:1}"
  "Ironfur Grizzly":
    "prefix" : "Ironfur Grizzly"
-   "body" : "Ironfur Grizzly ${1:2}"
+   "body" : "Ironfur Grizzly ${1:1}"
  "Magma Rager":
    "prefix" : "Magma Rager"
-   "body" : "Magma Rager ${1:2}"
+   "body" : "Magma Rager ${1:1}"
  "Raid Leader":
    "prefix" : "Raid Leader"
-   "body" : "Raid Leader ${1:2}"
+   "body" : "Raid Leader ${1:1}"
  "Razorfen Hunter":
    "prefix" : "Razorfen Hunter"
-   "body" : "Razorfen Hunter ${1:2}"
+   "body" : "Razorfen Hunter ${1:1}"
  "Shattered Sun Cleric":
    "prefix" : "Shattered Sun Cleric"
-   "body" : "Shattered Sun Cleric ${1:2}"
+   "body" : "Shattered Sun Cleric ${1:1}"
  "Silverback Patriarch":
    "prefix" : "Silverback Patriarch"
-   "body" : "Silverback Patriarch ${1:2}"
+   "body" : "Silverback Patriarch ${1:1}"
  "Wolfrider":
    "prefix" : "Wolfrider"
-   "body" : "Wolfrider ${1:2}"
+   "body" : "Wolfrider ${1:1}"
  "Chillwind Yeti":
    "prefix" : "Chillwind Yeti"
-   "body" : "Chillwind Yeti ${1:2}"
+   "body" : "Chillwind Yeti ${1:1}"
  "Dragonling Mechanic":
    "prefix" : "Dragonling Mechanic"
-   "body" : "Dragonling Mechanic ${1:2}"
+   "body" : "Dragonling Mechanic ${1:1}"
  "Gnomish Inventor":
    "prefix" : "Gnomish Inventor"
-   "body" : "Gnomish Inventor ${1:2}"
+   "body" : "Gnomish Inventor ${1:1}"
  "Oasis Snapjaw":
    "prefix" : "Oasis Snapjaw"
-   "body" : "Oasis Snapjaw ${1:2}"
+   "body" : "Oasis Snapjaw ${1:1}"
  "Ogre Magi":
    "prefix" : "Ogre Magi"
-   "body" : "Ogre Magi ${1:2}"
+   "body" : "Ogre Magi ${1:1}"
  "Sen'jin Shieldmasta":
    "prefix" : "Sen'jin Shieldmasta"
-   "body" : "Sen'jin Shieldmasta ${1:2}"
+   "body" : "Sen'jin Shieldmasta ${1:1}"
  "Stormwind Knight":
    "prefix" : "Stormwind Knight"
-   "body" : "Stormwind Knight ${1:2}"
+   "body" : "Stormwind Knight ${1:1}"
  "Booty Bay Bodyguard":
    "prefix" : "Booty Bay Bodyguard"
-   "body" : "Booty Bay Bodyguard ${1:2}"
+   "body" : "Booty Bay Bodyguard ${1:1}"
  "Darkscale Healer":
    "prefix" : "Darkscale Healer"
-   "body" : "Darkscale Healer ${1:2}"
+   "body" : "Darkscale Healer ${1:1}"
  "Frostwolf Warlord":
    "prefix" : "Frostwolf Warlord"
-   "body" : "Frostwolf Warlord ${1:2}"
+   "body" : "Frostwolf Warlord ${1:1}"
  "Gurubashi Berserker":
    "prefix" : "Gurubashi Berserker"
-   "body" : "Gurubashi Berserker ${1:2}"
+   "body" : "Gurubashi Berserker ${1:1}"
  "Nightblade":
    "prefix" : "Nightblade"
-   "body" : "Nightblade ${1:2}"
+   "body" : "Nightblade ${1:1}"
  "Stormpike Commando":
    "prefix" : "Stormpike Commando"
-   "body" : "Stormpike Commando ${1:2}"
+   "body" : "Stormpike Commando ${1:1}"
  "Archmage":
    "prefix" : "Archmage"
-   "body" : "Archmage ${1:2}"
+   "body" : "Archmage ${1:1}"
  "Boulderfist Ogre":
    "prefix" : "Boulderfist Ogre"
-   "body" : "Boulderfist Ogre ${1:2}"
+   "body" : "Boulderfist Ogre ${1:1}"
  "Lord of the Arena":
    "prefix" : "Lord of the Arena"
-   "body" : "Lord of the Arena ${1:2}"
+   "body" : "Lord of the Arena ${1:1}"
  "Reckless Rocketeer":
    "prefix" : "Reckless Rocketeer"
-   "body" : "Reckless Rocketeer ${1:2}"
+   "body" : "Reckless Rocketeer ${1:1}"
  "Core Hound":
    "prefix" : "Core Hound"
-   "body" : "Core Hound ${1:2}"
+   "body" : "Core Hound ${1:1}"
  "Stormwind Champion":
    "prefix" : "Stormwind Champion"
-   "body" : "Stormwind Champion ${1:2}"
+   "body" : "Stormwind Champion ${1:1}"
  "War Golem":
    "prefix" : "War Golem"
-   "body" : "War Golem ${1:2}"
+   "body" : "War Golem ${1:1}"
  "Wisp":
    "prefix" : "Wisp"
-   "body" : "Wisp ${1:2}"
+   "body" : "Wisp ${1:1}"
  "Abusive Sergeant":
    "prefix" : "Abusive Sergeant"
-   "body" : "Abusive Sergeant ${1:2}"
+   "body" : "Abusive Sergeant ${1:1}"
  "Argent Squire":
    "prefix" : "Argent Squire"
-   "body" : "Argent Squire ${1:2}"
+   "body" : "Argent Squire ${1:1}"
  "Clockwork Gnome":
    "prefix" : "Clockwork Gnome"
-   "body" : "Clockwork Gnome ${1:2}"
+   "body" : "Clockwork Gnome ${1:1}"
  "Cogmaster":
    "prefix" : "Cogmaster"
-   "body" : "Cogmaster ${1:2}"
+   "body" : "Cogmaster ${1:1}"
  "Leper Gnome":
    "prefix" : "Leper Gnome"
-   "body" : "Leper Gnome ${1:2}"
+   "body" : "Leper Gnome ${1:1}"
  "Shieldbearer":
    "prefix" : "Shieldbearer"
-   "body" : "Shieldbearer ${1:2}"
+   "body" : "Shieldbearer ${1:1}"
  "Southsea Deckhand":
    "prefix" : "Southsea Deckhand"
-   "body" : "Southsea Deckhand ${1:2}"
+   "body" : "Southsea Deckhand ${1:1}"
  "Undertaker":
    "prefix" : "Undertaker"
-   "body" : "Undertaker ${1:2}"
+   "body" : "Undertaker ${1:1}"
  "Worgen Infiltrator":
    "prefix" : "Worgen Infiltrator"
-   "body" : "Worgen Infiltrator ${1:2}"
+   "body" : "Worgen Infiltrator ${1:1}"
  "Young Dragonhawk":
    "prefix" : "Young Dragonhawk"
-   "body" : "Young Dragonhawk ${1:2}"
+   "body" : "Young Dragonhawk ${1:1}"
  "Zombie Chow":
    "prefix" : "Zombie Chow"
-   "body" : "Zombie Chow ${1:2}"
+   "body" : "Zombie Chow ${1:1}"
  "Amani Berserker":
    "prefix" : "Amani Berserker"
-   "body" : "Amani Berserker ${1:2}"
+   "body" : "Amani Berserker ${1:1}"
  "Annoy-o-Tron":
    "prefix" : "Annoy-o-Tron"
-   "body" : "Annoy-o-Tron ${1:2}"
+   "body" : "Annoy-o-Tron ${1:1}"
  "Bloodsail Raider":
    "prefix" : "Bloodsail Raider"
-   "body" : "Bloodsail Raider ${1:2}"
+   "body" : "Bloodsail Raider ${1:1}"
  "Dire Wolf Alpha":
    "prefix" : "Dire Wolf Alpha"
-   "body" : "Dire Wolf Alpha ${1:2}"
+   "body" : "Dire Wolf Alpha ${1:1}"
  "Explosive Sheep":
    "prefix" : "Explosive Sheep"
-   "body" : "Explosive Sheep ${1:2}"
+   "body" : "Explosive Sheep ${1:1}"
  "Faerie Dragon":
    "prefix" : "Faerie Dragon"
-   "body" : "Faerie Dragon ${1:2}"
+   "body" : "Faerie Dragon ${1:1}"
  "Gilblin Stalker":
    "prefix" : "Gilblin Stalker"
-   "body" : "Gilblin Stalker ${1:2}"
+   "body" : "Gilblin Stalker ${1:1}"
  "Haunted Creeper":
    "prefix" : "Haunted Creeper"
-   "body" : "Haunted Creeper ${1:2}"
+   "body" : "Haunted Creeper ${1:1}"
  "Ironbeak Owl":
    "prefix" : "Ironbeak Owl"
-   "body" : "Ironbeak Owl ${1:2}"
+   "body" : "Ironbeak Owl ${1:1}"
  "Loot Hoarder":
    "prefix" : "Loot Hoarder"
-   "body" : "Loot Hoarder ${1:2}"
+   "body" : "Loot Hoarder ${1:1}"
  "Mad Bomber":
    "prefix" : "Mad Bomber"
-   "body" : "Mad Bomber ${1:2}"
+   "body" : "Mad Bomber ${1:1}"
  "Mad Scientist":
    "prefix" : "Mad Scientist"
-   "body" : "Mad Scientist ${1:2}"
+   "body" : "Mad Scientist ${1:1}"
  "Mechwarper":
    "prefix" : "Mechwarper"
-   "body" : "Mechwarper ${1:2}"
+   "body" : "Mechwarper ${1:1}"
  "Micro Machine":
    "prefix" : "Micro Machine"
-   "body" : "Micro Machine ${1:2}"
+   "body" : "Micro Machine ${1:1}"
  "Nerub'ar Weblord":
    "prefix" : "Nerub'ar Weblord"
-   "body" : "Nerub'ar Weblord ${1:2}"
+   "body" : "Nerub'ar Weblord ${1:1}"
  "Puddlestomper":
    "prefix" : "Puddlestomper"
-   "body" : "Puddlestomper ${1:2}"
+   "body" : "Puddlestomper ${1:1}"
  "Ship's Cannon":
    "prefix" : "Ship's Cannon"
-   "body" : "Ship's Cannon ${1:2}"
+   "body" : "Ship's Cannon ${1:1}"
  "Stonesplinter Trogg":
    "prefix" : "Stonesplinter Trogg"
-   "body" : "Stonesplinter Trogg ${1:2}"
+   "body" : "Stonesplinter Trogg ${1:1}"
  "Unstable Ghoul":
    "prefix" : "Unstable Ghoul"
-   "body" : "Unstable Ghoul ${1:2}"
+   "body" : "Unstable Ghoul ${1:1}"
  "Youthful Brewmaster":
    "prefix" : "Youthful Brewmaster"
-   "body" : "Youthful Brewmaster ${1:2}"
+   "body" : "Youthful Brewmaster ${1:1}"
  "Acolyte of Pain":
    "prefix" : "Acolyte of Pain"
-   "body" : "Acolyte of Pain ${1:2}"
+   "body" : "Acolyte of Pain ${1:1}"
  "Blackwing Technician":
    "prefix" : "Blackwing Technician"
-   "body" : "Blackwing Technician ${1:2}"
+   "body" : "Blackwing Technician ${1:1}"
  "Dancing Swords":
    "prefix" : "Dancing Swords"
-   "body" : "Dancing Swords ${1:2}"
+   "body" : "Dancing Swords ${1:1}"
  "Earthen Ring Farseer":
    "prefix" : "Earthen Ring Farseer"
-   "body" : "Earthen Ring Farseer ${1:2}"
+   "body" : "Earthen Ring Farseer ${1:1}"
  "Flesheating Ghoul":
    "prefix" : "Flesheating Ghoul"
-   "body" : "Flesheating Ghoul ${1:2}"
+   "body" : "Flesheating Ghoul ${1:1}"
  "Flying Machine":
    "prefix" : "Flying Machine"
-   "body" : "Flying Machine ${1:2}"
+   "body" : "Flying Machine ${1:1}"
  "Gnomeregan Infantry":
    "prefix" : "Gnomeregan Infantry"
-   "body" : "Gnomeregan Infantry ${1:2}"
+   "body" : "Gnomeregan Infantry ${1:1}"
  "Harvest Golem":
    "prefix" : "Harvest Golem"
-   "body" : "Harvest Golem ${1:2}"
+   "body" : "Harvest Golem ${1:1}"
  "Jungle Panther":
    "prefix" : "Jungle Panther"
-   "body" : "Jungle Panther ${1:2}"
+   "body" : "Jungle Panther ${1:1}"
  "Ogre Brute":
    "prefix" : "Ogre Brute"
-   "body" : "Ogre Brute ${1:2}"
+   "body" : "Ogre Brute ${1:1}"
  "Raging Worgen":
    "prefix" : "Raging Worgen"
-   "body" : "Raging Worgen ${1:2}"
+   "body" : "Raging Worgen ${1:1}"
  "Scarlet Crusader":
    "prefix" : "Scarlet Crusader"
-   "body" : "Scarlet Crusader ${1:2}"
+   "body" : "Scarlet Crusader ${1:1}"
  "Spider Tank":
    "prefix" : "Spider Tank"
-   "body" : "Spider Tank ${1:2}"
+   "body" : "Spider Tank ${1:1}"
  "Stoneskin Gargoyle":
    "prefix" : "Stoneskin Gargoyle"
-   "body" : "Stoneskin Gargoyle ${1:2}"
+   "body" : "Stoneskin Gargoyle ${1:1}"
  "Tauren Warrior":
    "prefix" : "Tauren Warrior"
-   "body" : "Tauren Warrior ${1:2}"
+   "body" : "Tauren Warrior ${1:1}"
  "Thrallmar Farseer":
    "prefix" : "Thrallmar Farseer"
-   "body" : "Thrallmar Farseer ${1:2}"
+   "body" : "Thrallmar Farseer ${1:1}"
  "Tinkertown Technician":
    "prefix" : "Tinkertown Technician"
-   "body" : "Tinkertown Technician ${1:2}"
+   "body" : "Tinkertown Technician ${1:1}"
  "Ancient Brewmaster":
    "prefix" : "Ancient Brewmaster"
-   "body" : "Ancient Brewmaster ${1:2}"
+   "body" : "Ancient Brewmaster ${1:1}"
  "Burly Rockjaw Trogg":
    "prefix" : "Burly Rockjaw Trogg"
-   "body" : "Burly Rockjaw Trogg ${1:2}"
+   "body" : "Burly Rockjaw Trogg ${1:1}"
  "Cult Master":
    "prefix" : "Cult Master"
-   "body" : "Cult Master ${1:2}"
+   "body" : "Cult Master ${1:1}"
  "Dark Iron Dwarf":
    "prefix" : "Dark Iron Dwarf"
-   "body" : "Dark Iron Dwarf ${1:2}"
+   "body" : "Dark Iron Dwarf ${1:1}"
  "Dragonkin Sorcerer":
    "prefix" : "Dragonkin Sorcerer"
-   "body" : "Dragonkin Sorcerer ${1:2}"
+   "body" : "Dragonkin Sorcerer ${1:1}"
  "Dread Corsair":
    "prefix" : "Dread Corsair"
-   "body" : "Dread Corsair ${1:2}"
+   "body" : "Dread Corsair ${1:1}"
  "Hungry Dragon":
    "prefix" : "Hungry Dragon"
-   "body" : "Hungry Dragon ${1:2}"
+   "body" : "Hungry Dragon ${1:1}"
  "Lost Tallstrider":
    "prefix" : "Lost Tallstrider"
-   "body" : "Lost Tallstrider ${1:2}"
+   "body" : "Lost Tallstrider ${1:1}"
  "Mechanical Yeti":
    "prefix" : "Mechanical Yeti"
-   "body" : "Mechanical Yeti ${1:2}"
+   "body" : "Mechanical Yeti ${1:1}"
  "Mogu'shan Warden":
    "prefix" : "Mogu'shan Warden"
-   "body" : "Mogu'shan Warden ${1:2}"
+   "body" : "Mogu'shan Warden ${1:1}"
  "Piloted Shredder":
    "prefix" : "Piloted Shredder"
-   "body" : "Piloted Shredder ${1:2}"
+   "body" : "Piloted Shredder ${1:1}"
  "Silvermoon Guardian":
    "prefix" : "Silvermoon Guardian"
-   "body" : "Silvermoon Guardian ${1:2}"
+   "body" : "Silvermoon Guardian ${1:1}"
  "Spellbreaker":
    "prefix" : "Spellbreaker"
-   "body" : "Spellbreaker ${1:2}"
+   "body" : "Spellbreaker ${1:1}"
  "Antique Healbot":
    "prefix" : "Antique Healbot"
-   "body" : "Antique Healbot ${1:2}"
+   "body" : "Antique Healbot ${1:1}"
  "Blackwing Corruptor":
    "prefix" : "Blackwing Corruptor"
-   "body" : "Blackwing Corruptor ${1:2}"
+   "body" : "Blackwing Corruptor ${1:1}"
  "Fen Creeper":
    "prefix" : "Fen Creeper"
-   "body" : "Fen Creeper ${1:2}"
+   "body" : "Fen Creeper ${1:1}"
  "Salty Dog":
    "prefix" : "Salty Dog"
-   "body" : "Salty Dog ${1:2}"
+   "body" : "Salty Dog ${1:1}"
  "Silver Hand Knight":
    "prefix" : "Silver Hand Knight"
-   "body" : "Silver Hand Knight ${1:2}"
+   "body" : "Silver Hand Knight ${1:1}"
  "Spectral Knight":
    "prefix" : "Spectral Knight"
-   "body" : "Spectral Knight ${1:2}"
+   "body" : "Spectral Knight ${1:1}"
  "Spiteful Smith":
    "prefix" : "Spiteful Smith"
-   "body" : "Spiteful Smith ${1:2}"
+   "body" : "Spiteful Smith ${1:1}"
  "Stranglethorn Tiger":
    "prefix" : "Stranglethorn Tiger"
-   "body" : "Stranglethorn Tiger ${1:2}"
+   "body" : "Stranglethorn Tiger ${1:1}"
  "Venture Co. Mercenary":
    "prefix" : "Venture Co. Mercenary"
-   "body" : "Venture Co. Mercenary ${1:2}"
+   "body" : "Venture Co. Mercenary ${1:1}"
  "Drakonid Crusher":
    "prefix" : "Drakonid Crusher"
-   "body" : "Drakonid Crusher ${1:2}"
+   "body" : "Drakonid Crusher ${1:1}"
  "Frost Elemental":
    "prefix" : "Frost Elemental"
-   "body" : "Frost Elemental ${1:2}"
+   "body" : "Frost Elemental ${1:1}"
  "Priestess of Elune":
    "prefix" : "Priestess of Elune"
-   "body" : "Priestess of Elune ${1:2}"
+   "body" : "Priestess of Elune ${1:1}"
  "Volcanic Drake":
    "prefix" : "Volcanic Drake"
-   "body" : "Volcanic Drake ${1:2}"
+   "body" : "Volcanic Drake ${1:1}"
  "Windfury Harpy":
    "prefix" : "Windfury Harpy"
-   "body" : "Windfury Harpy ${1:2}"
+   "body" : "Windfury Harpy ${1:1}"
  "Force-Tank MAX":
    "prefix" : "Force-Tank MAX"
-   "body" : "Force-Tank MAX ${1:2}"
+   "body" : "Force-Tank MAX ${1:1}"
  "Target Dummy":
    "prefix" : "Target Dummy"
-   "body" : "Target Dummy ${1:2}"
+   "body" : "Target Dummy ${1:1}"
  "Angry Chicken":
    "prefix" : "Angry Chicken"
-   "body" : "Angry Chicken ${1:2}"
+   "body" : "Angry Chicken ${1:1}"
  "Bloodsail Corsair":
    "prefix" : "Bloodsail Corsair"
-   "body" : "Bloodsail Corsair ${1:2}"
+   "body" : "Bloodsail Corsair ${1:1}"
  "Dragon Egg":
    "prefix" : "Dragon Egg"
-   "body" : "Dragon Egg ${1:2}"
+   "body" : "Dragon Egg ${1:1}"
  "Lightwarden":
    "prefix" : "Lightwarden"
-   "body" : "Lightwarden ${1:2}"
+   "body" : "Lightwarden ${1:1}"
  "Murloc Tidecaller":
    "prefix" : "Murloc Tidecaller"
-   "body" : "Murloc Tidecaller ${1:2}"
+   "body" : "Murloc Tidecaller ${1:1}"
  "Secretkeeper":
    "prefix" : "Secretkeeper"
-   "body" : "Secretkeeper ${1:2}"
+   "body" : "Secretkeeper ${1:1}"
  "Young Priestess":
    "prefix" : "Young Priestess"
-   "body" : "Young Priestess ${1:2}"
+   "body" : "Young Priestess ${1:1}"
  "Ancient Watcher":
    "prefix" : "Ancient Watcher"
-   "body" : "Ancient Watcher ${1:2}"
+   "body" : "Ancient Watcher ${1:1}"
  "Crazed Alchemist":
    "prefix" : "Crazed Alchemist"
-   "body" : "Crazed Alchemist ${1:2}"
+   "body" : "Crazed Alchemist ${1:1}"
  "Knife Juggler":
    "prefix" : "Knife Juggler"
-   "body" : "Knife Juggler ${1:2}"
+   "body" : "Knife Juggler ${1:1}"
  "Mana Addict":
    "prefix" : "Mana Addict"
-   "body" : "Mana Addict ${1:2}"
+   "body" : "Mana Addict ${1:1}"
  "Mana Wraith":
    "prefix" : "Mana Wraith"
-   "body" : "Mana Wraith ${1:2}"
+   "body" : "Mana Wraith ${1:1}"
  "Master Swordsmith":
    "prefix" : "Master Swordsmith"
-   "body" : "Master Swordsmith ${1:2}"
+   "body" : "Master Swordsmith ${1:1}"
  "Nerubian Egg":
    "prefix" : "Nerubian Egg"
-   "body" : "Nerubian Egg ${1:2}"
+   "body" : "Nerubian Egg ${1:1}"
  "Pint-Sized Summoner":
    "prefix" : "Pint-Sized Summoner"
-   "body" : "Pint-Sized Summoner ${1:2}"
+   "body" : "Pint-Sized Summoner ${1:1}"
  "Sunfury Protector":
    "prefix" : "Sunfury Protector"
-   "body" : "Sunfury Protector ${1:2}"
+   "body" : "Sunfury Protector ${1:1}"
  "Wild Pyromancer":
    "prefix" : "Wild Pyromancer"
-   "body" : "Wild Pyromancer ${1:2}"
+   "body" : "Wild Pyromancer ${1:1}"
  "Alarm-o-Bot":
    "prefix" : "Alarm-o-Bot"
-   "body" : "Alarm-o-Bot ${1:2}"
+   "body" : "Alarm-o-Bot ${1:1}"
  "Arcane Golem":
    "prefix" : "Arcane Golem"
-   "body" : "Arcane Golem ${1:2}"
+   "body" : "Arcane Golem ${1:1}"
  "Coldlight Oracle":
    "prefix" : "Coldlight Oracle"
-   "body" : "Coldlight Oracle ${1:2}"
+   "body" : "Coldlight Oracle ${1:1}"
  "Coldlight Seer":
    "prefix" : "Coldlight Seer"
-   "body" : "Coldlight Seer ${1:2}"
+   "body" : "Coldlight Seer ${1:1}"
  "Deathlord":
    "prefix" : "Deathlord"
-   "body" : "Deathlord ${1:2}"
+   "body" : "Deathlord ${1:1}"
  "Demolisher":
    "prefix" : "Demolisher"
-   "body" : "Demolisher ${1:2}"
+   "body" : "Demolisher ${1:1}"
  "Emperor Cobra":
    "prefix" : "Emperor Cobra"
-   "body" : "Emperor Cobra ${1:2}"
+   "body" : "Emperor Cobra ${1:1}"
  "Gnomish Experimenter":
    "prefix" : "Gnomish Experimenter"
-   "body" : "Gnomish Experimenter ${1:2}"
+   "body" : "Gnomish Experimenter ${1:1}"
  "Goblin Sapper":
    "prefix" : "Goblin Sapper"
-   "body" : "Goblin Sapper ${1:2}"
+   "body" : "Goblin Sapper ${1:1}"
  "Illuminator":
    "prefix" : "Illuminator"
-   "body" : "Illuminator ${1:2}"
+   "body" : "Illuminator ${1:1}"
  "Imp Master":
    "prefix" : "Imp Master"
-   "body" : "Imp Master ${1:2}"
+   "body" : "Imp Master ${1:1}"
  "Injured Blademaster":
    "prefix" : "Injured Blademaster"
-   "body" : "Injured Blademaster ${1:2}"
+   "body" : "Injured Blademaster ${1:1}"
  "Lil' Exorcist":
    "prefix" : "Lil' Exorcist"
-   "body" : "Lil' Exorcist ${1:2}"
+   "body" : "Lil' Exorcist ${1:1}"
  "Mind Control Tech":
    "prefix" : "Mind Control Tech"
-   "body" : "Mind Control Tech ${1:2}"
+   "body" : "Mind Control Tech ${1:1}"
  "Questing Adventurer":
    "prefix" : "Questing Adventurer"
-   "body" : "Questing Adventurer ${1:2}"
+   "body" : "Questing Adventurer ${1:1}"
  "Ancient Mage":
    "prefix" : "Ancient Mage"
-   "body" : "Ancient Mage ${1:2}"
+   "body" : "Ancient Mage ${1:1}"
  "Arcane Nullifier X-21":
    "prefix" : "Arcane Nullifier X-21"
-   "body" : "Arcane Nullifier X-21 ${1:2}"
+   "body" : "Arcane Nullifier X-21 ${1:1}"
  "Defender of Argus":
    "prefix" : "Defender of Argus"
-   "body" : "Defender of Argus ${1:2}"
+   "body" : "Defender of Argus ${1:1}"
  "Jeeves":
    "prefix" : "Jeeves"
-   "body" : "Jeeves ${1:2}"
+   "body" : "Jeeves ${1:1}"
  "Kezan Mystic":
    "prefix" : "Kezan Mystic"
-   "body" : "Kezan Mystic ${1:2}"
+   "body" : "Kezan Mystic ${1:1}"
  "Twilight Drake":
    "prefix" : "Twilight Drake"
-   "body" : "Twilight Drake ${1:2}"
+   "body" : "Twilight Drake ${1:1}"
  "Violet Teacher":
    "prefix" : "Violet Teacher"
-   "body" : "Violet Teacher ${1:2}"
+   "body" : "Violet Teacher ${1:1}"
  "Wailing Soul":
    "prefix" : "Wailing Soul"
-   "body" : "Wailing Soul ${1:2}"
+   "body" : "Wailing Soul ${1:1}"
  "Abomination":
    "prefix" : "Abomination"
-   "body" : "Abomination ${1:2}"
+   "body" : "Abomination ${1:1}"
  "Azure Drake":
    "prefix" : "Azure Drake"
-   "body" : "Azure Drake ${1:2}"
+   "body" : "Azure Drake ${1:1}"
  "Bomb Lobber":
    "prefix" : "Bomb Lobber"
-   "body" : "Bomb Lobber ${1:2}"
+   "body" : "Bomb Lobber ${1:1}"
  "Grim Patron":
    "prefix" : "Grim Patron"
-   "body" : "Grim Patron ${1:2}"
+   "body" : "Grim Patron ${1:1}"
  "Madder Bomber":
    "prefix" : "Madder Bomber"
-   "body" : "Madder Bomber ${1:2}"
+   "body" : "Madder Bomber ${1:1}"
  "Sludge Belcher":
    "prefix" : "Sludge Belcher"
-   "body" : "Sludge Belcher ${1:2}"
+   "body" : "Sludge Belcher ${1:1}"
  "Stampeding Kodo":
    "prefix" : "Stampeding Kodo"
-   "body" : "Stampeding Kodo ${1:2}"
+   "body" : "Stampeding Kodo ${1:1}"
  "Argent Commander":
    "prefix" : "Argent Commander"
-   "body" : "Argent Commander ${1:2}"
+   "body" : "Argent Commander ${1:1}"
  "Gadgetzan Auctioneer":
    "prefix" : "Gadgetzan Auctioneer"
-   "body" : "Gadgetzan Auctioneer ${1:2}"
+   "body" : "Gadgetzan Auctioneer ${1:1}"
  "Sunwalker":
    "prefix" : "Sunwalker"
-   "body" : "Sunwalker ${1:2}"
+   "body" : "Sunwalker ${1:1}"
  "Ravenholdt Assassin":
    "prefix" : "Ravenholdt Assassin"
-   "body" : "Ravenholdt Assassin ${1:2}"
+   "body" : "Ravenholdt Assassin ${1:1}"
  "Hungry Crab":
    "prefix" : "Hungry Crab"
-   "body" : "Hungry Crab ${1:2}"
+   "body" : "Hungry Crab ${1:1}"
  "Captain's Parrot":
    "prefix" : "Captain's Parrot"
-   "body" : "Captain's Parrot ${1:2}"
+   "body" : "Captain's Parrot ${1:1}"
  "Doomsayer":
    "prefix" : "Doomsayer"
-   "body" : "Doomsayer ${1:2}"
+   "body" : "Doomsayer ${1:1}"
  "Echoing Ooze":
    "prefix" : "Echoing Ooze"
-   "body" : "Echoing Ooze ${1:2}"
+   "body" : "Echoing Ooze ${1:1}"
  "Recombobulator":
    "prefix" : "Recombobulator"
-   "body" : "Recombobulator ${1:2}"
+   "body" : "Recombobulator ${1:1}"
  "Big Game Hunter":
    "prefix" : "Big Game Hunter"
-   "body" : "Big Game Hunter ${1:2}"
+   "body" : "Big Game Hunter ${1:1}"
  "Blood Knight":
    "prefix" : "Blood Knight"
-   "body" : "Blood Knight ${1:2}"
+   "body" : "Blood Knight ${1:1}"
  "Hobgoblin":
    "prefix" : "Hobgoblin"
-   "body" : "Hobgoblin ${1:2}"
+   "body" : "Hobgoblin ${1:1}"
  "Murloc Warleader":
    "prefix" : "Murloc Warleader"
-   "body" : "Murloc Warleader ${1:2}"
+   "body" : "Murloc Warleader ${1:1}"
  "Shade of Naxxramas":
    "prefix" : "Shade of Naxxramas"
-   "body" : "Shade of Naxxramas ${1:2}"
+   "body" : "Shade of Naxxramas ${1:1}"
  "Southsea Captain":
    "prefix" : "Southsea Captain"
-   "body" : "Southsea Captain ${1:2}"
+   "body" : "Southsea Captain ${1:1}"
  "Enhance-o Machano":
    "prefix" : "Enhance-o Machano"
-   "body" : "Enhance-o Machano ${1:2}"
+   "body" : "Enhance-o Machano ${1:1}"
  "Mini-Mage":
    "prefix" : "Mini-Mage"
-   "body" : "Mini-Mage ${1:2}"
+   "body" : "Mini-Mage ${1:1}"
  "Faceless Manipulator":
    "prefix" : "Faceless Manipulator"
-   "body" : "Faceless Manipulator ${1:2}"
+   "body" : "Faceless Manipulator ${1:1}"
  "Fel Reaver":
    "prefix" : "Fel Reaver"
-   "body" : "Fel Reaver ${1:2}"
+   "body" : "Fel Reaver ${1:1}"
  "Junkbot":
    "prefix" : "Junkbot"
-   "body" : "Junkbot ${1:2}"
+   "body" : "Junkbot ${1:1}"
  "Piloted Sky Golem":
    "prefix" : "Piloted Sky Golem"
-   "body" : "Piloted Sky Golem ${1:2}"
+   "body" : "Piloted Sky Golem ${1:1}"
  "Sea Giant":
    "prefix" : "Sea Giant"
-   "body" : "Sea Giant ${1:2}"
+   "body" : "Sea Giant ${1:1}"
  "Clockwork Giant":
    "prefix" : "Clockwork Giant"
-   "body" : "Clockwork Giant ${1:2}"
+   "body" : "Clockwork Giant ${1:1}"
  "Mountain Giant":
    "prefix" : "Mountain Giant"
-   "body" : "Mountain Giant ${1:2}"
+   "body" : "Mountain Giant ${1:1}"
  "Molten Giant":
    "prefix" : "Molten Giant"
-   "body" : "Molten Giant ${1:2}"
+   "body" : "Molten Giant ${1:1}"
  "Bloodmage Thalnos":
    "prefix" : "Bloodmage Thalnos"
    "body" : "Bloodmage Thalnos *"
@@ -727,106 +727,106 @@
    "body" : "Deathwing *"
  "Innervate":
    "prefix" : "Innervate"
-   "body" : "Innervate ${1:2}"
+   "body" : "Innervate ${1:1}"
  "Moonfire":
    "prefix" : "Moonfire"
-   "body" : "Moonfire ${1:2}"
+   "body" : "Moonfire ${1:1}"
  "Claw":
    "prefix" : "Claw"
-   "body" : "Claw ${1:2}"
+   "body" : "Claw ${1:1}"
  "Mark of the Wild":
    "prefix" : "Mark of the Wild"
-   "body" : "Mark of the Wild ${1:2}"
+   "body" : "Mark of the Wild ${1:1}"
  "Wild Growth":
    "prefix" : "Wild Growth"
-   "body" : "Wild Growth ${1:2}"
+   "body" : "Wild Growth ${1:1}"
  "Healing Touch":
    "prefix" : "Healing Touch"
-   "body" : "Healing Touch ${1:2}"
+   "body" : "Healing Touch ${1:1}"
  "Savage Roar":
    "prefix" : "Savage Roar"
-   "body" : "Savage Roar ${1:2}"
+   "body" : "Savage Roar ${1:1}"
  "Swipe":
    "prefix" : "Swipe"
-   "body" : "Swipe ${1:2}"
+   "body" : "Swipe ${1:1}"
  "Starfire":
    "prefix" : "Starfire"
-   "body" : "Starfire ${1:2}"
+   "body" : "Starfire ${1:1}"
  "Ironbark Protector":
    "prefix" : "Ironbark Protector"
-   "body" : "Ironbark Protector ${1:2}"
+   "body" : "Ironbark Protector ${1:1}"
  "Naturalize":
    "prefix" : "Naturalize"
-   "body" : "Naturalize ${1:2}"
+   "body" : "Naturalize ${1:1}"
  "Anodized Robo Cub":
    "prefix" : "Anodized Robo Cub"
-   "body" : "Anodized Robo Cub ${1:2}"
+   "body" : "Anodized Robo Cub ${1:1}"
  "Power of the Wild":
    "prefix" : "Power of the Wild"
-   "body" : "Power of the Wild ${1:2}"
+   "body" : "Power of the Wild ${1:1}"
  "Wrath":
    "prefix" : "Wrath"
-   "body" : "Wrath ${1:2}"
+   "body" : "Wrath ${1:1}"
  "Druid of the Flame":
    "prefix" : "Druid of the Flame"
-   "body" : "Druid of the Flame ${1:2}"
+   "body" : "Druid of the Flame ${1:1}"
  "Mark of Nature":
    "prefix" : "Mark of Nature"
-   "body" : "Mark of Nature ${1:2}"
+   "body" : "Mark of Nature ${1:1}"
  "Poison Seeds":
    "prefix" : "Poison Seeds"
-   "body" : "Poison Seeds ${1:2}"
+   "body" : "Poison Seeds ${1:1}"
  "Soul of the Forest":
    "prefix" : "Soul of the Forest"
-   "body" : "Soul of the Forest ${1:2}"
+   "body" : "Soul of the Forest ${1:1}"
  "Druid of the Claw":
    "prefix" : "Druid of the Claw"
-   "body" : "Druid of the Claw ${1:2}"
+   "body" : "Druid of the Claw ${1:1}"
  "Druid of the Fang":
    "prefix" : "Druid of the Fang"
-   "body" : "Druid of the Fang ${1:2}"
+   "body" : "Druid of the Fang ${1:1}"
  "Savagery":
    "prefix" : "Savagery"
-   "body" : "Savagery ${1:2}"
+   "body" : "Savagery ${1:1}"
  "Grove Tender":
    "prefix" : "Grove Tender"
-   "body" : "Grove Tender ${1:2}"
+   "body" : "Grove Tender ${1:1}"
  "Bite":
    "prefix" : "Bite"
-   "body" : "Bite ${1:2}"
+   "body" : "Bite ${1:1}"
  "Keeper of the Grove":
    "prefix" : "Keeper of the Grove"
-   "body" : "Keeper of the Grove ${1:2}"
+   "body" : "Keeper of the Grove ${1:1}"
  "Nourish":
    "prefix" : "Nourish"
-   "body" : "Nourish ${1:2}"
+   "body" : "Nourish ${1:1}"
  "Starfall":
    "prefix" : "Starfall"
-   "body" : "Starfall ${1:2}"
+   "body" : "Starfall ${1:1}"
  "Mech-Bear-Cat":
    "prefix" : "Mech-Bear-Cat"
-   "body" : "Mech-Bear-Cat ${1:2}"
+   "body" : "Mech-Bear-Cat ${1:1}"
  "Recycle":
    "prefix" : "Recycle"
-   "body" : "Recycle ${1:2}"
+   "body" : "Recycle ${1:1}"
  "Volcanic Lumberer":
    "prefix" : "Volcanic Lumberer"
-   "body" : "Volcanic Lumberer ${1:2}"
+   "body" : "Volcanic Lumberer ${1:1}"
  "Dark Wispers":
    "prefix" : "Dark Wispers"
-   "body" : "Dark Wispers ${1:2}"
+   "body" : "Dark Wispers ${1:1}"
  "Force of Nature":
    "prefix" : "Force of Nature"
-   "body" : "Force of Nature ${1:2}"
+   "body" : "Force of Nature ${1:1}"
  "Ancient of Lore":
    "prefix" : "Ancient of Lore"
-   "body" : "Ancient of Lore ${1:2}"
+   "body" : "Ancient of Lore ${1:1}"
  "Ancient of War":
    "prefix" : "Ancient of War"
-   "body" : "Ancient of War ${1:2}"
+   "body" : "Ancient of War ${1:1}"
  "Tree of Life":
    "prefix" : "Tree of Life"
-   "body" : "Tree of Life ${1:2}"
+   "body" : "Tree of Life ${1:1}"
  "Malorne":
    "prefix" : "Malorne"
    "body" : "Malorne *"
@@ -835,106 +835,106 @@
    "body" : "Cenarius *"
  "Hunter's Mark":
    "prefix" : "Hunter's Mark"
-   "body" : "Hunter's Mark ${1:2}"
+   "body" : "Hunter's Mark ${1:1}"
  "Arcane Shot":
    "prefix" : "Arcane Shot"
-   "body" : "Arcane Shot ${1:2}"
+   "body" : "Arcane Shot ${1:1}"
  "Timber Wolf":
    "prefix" : "Timber Wolf"
-   "body" : "Timber Wolf ${1:2}"
+   "body" : "Timber Wolf ${1:1}"
  "Tracking":
    "prefix" : "Tracking"
-   "body" : "Tracking ${1:2}"
+   "body" : "Tracking ${1:1}"
  "Animal Companion":
    "prefix" : "Animal Companion"
-   "body" : "Animal Companion ${1:2}"
+   "body" : "Animal Companion ${1:1}"
  "Kill Command":
    "prefix" : "Kill Command"
-   "body" : "Kill Command ${1:2}"
+   "body" : "Kill Command ${1:1}"
  "Houndmaster":
    "prefix" : "Houndmaster"
-   "body" : "Houndmaster ${1:2}"
+   "body" : "Houndmaster ${1:1}"
  "Multi-Shot":
    "prefix" : "Multi-Shot"
-   "body" : "Multi-Shot ${1:2}"
+   "body" : "Multi-Shot ${1:1}"
  "Starving Buzzard":
    "prefix" : "Starving Buzzard"
-   "body" : "Starving Buzzard ${1:2}"
+   "body" : "Starving Buzzard ${1:1}"
  "Tundra Rhino":
    "prefix" : "Tundra Rhino"
-   "body" : "Tundra Rhino ${1:2}"
+   "body" : "Tundra Rhino ${1:1}"
  "Webspinner":
    "prefix" : "Webspinner"
-   "body" : "Webspinner ${1:2}"
+   "body" : "Webspinner ${1:1}"
  "Explosive Trap":
    "prefix" : "Explosive Trap"
-   "body" : "Explosive Trap ${1:2}"
+   "body" : "Explosive Trap ${1:1}"
  "Freezing Trap":
    "prefix" : "Freezing Trap"
-   "body" : "Freezing Trap ${1:2}"
+   "body" : "Freezing Trap ${1:1}"
  "Glaivezooka":
    "prefix" : "Glaivezooka"
-   "body" : "Glaivezooka ${1:2}"
+   "body" : "Glaivezooka ${1:1}"
  "Quick Shot":
    "prefix" : "Quick Shot"
-   "body" : "Quick Shot ${1:2}"
+   "body" : "Quick Shot ${1:1}"
  "Scavenging Hyena":
    "prefix" : "Scavenging Hyena"
-   "body" : "Scavenging Hyena ${1:2}"
+   "body" : "Scavenging Hyena ${1:1}"
  "Snipe":
    "prefix" : "Snipe"
-   "body" : "Snipe ${1:2}"
+   "body" : "Snipe ${1:1}"
  "Deadly Shot":
    "prefix" : "Deadly Shot"
-   "body" : "Deadly Shot ${1:2}"
+   "body" : "Deadly Shot ${1:1}"
  "Unleash the Hounds":
    "prefix" : "Unleash the Hounds"
-   "body" : "Unleash the Hounds ${1:2}"
+   "body" : "Unleash the Hounds ${1:1}"
  "Cobra Shot":
    "prefix" : "Cobra Shot"
-   "body" : "Cobra Shot ${1:2}"
+   "body" : "Cobra Shot ${1:1}"
  "Call Pet":
    "prefix" : "Call Pet"
-   "body" : "Call Pet ${1:2}"
+   "body" : "Call Pet ${1:1}"
  "Flare":
    "prefix" : "Flare"
-   "body" : "Flare ${1:2}"
+   "body" : "Flare ${1:1}"
  "Misdirection":
    "prefix" : "Misdirection"
-   "body" : "Misdirection ${1:2}"
+   "body" : "Misdirection ${1:1}"
  "Eaglehorn Bow":
    "prefix" : "Eaglehorn Bow"
-   "body" : "Eaglehorn Bow ${1:2}"
+   "body" : "Eaglehorn Bow ${1:1}"
  "Metaltooth Leaper":
    "prefix" : "Metaltooth Leaper"
-   "body" : "Metaltooth Leaper ${1:2}"
+   "body" : "Metaltooth Leaper ${1:1}"
  "Core Rager":
    "prefix" : "Core Rager"
-   "body" : "Core Rager ${1:2}"
+   "body" : "Core Rager ${1:1}"
  "Explosive Shot":
    "prefix" : "Explosive Shot"
-   "body" : "Explosive Shot ${1:2}"
+   "body" : "Explosive Shot ${1:1}"
  "King of Beasts":
    "prefix" : "King of Beasts"
-   "body" : "King of Beasts ${1:2}"
+   "body" : "King of Beasts ${1:1}"
  "Savannah Highmane":
    "prefix" : "Savannah Highmane"
-   "body" : "Savannah Highmane ${1:2}"
+   "body" : "Savannah Highmane ${1:1}"
  "Bestial Wrath":
    "prefix" : "Bestial Wrath"
-   "body" : "Bestial Wrath ${1:2}"
+   "body" : "Bestial Wrath ${1:1}"
  "Feign Death":
    "prefix" : "Feign Death"
-   "body" : "Feign Death ${1:2}"
+   "body" : "Feign Death ${1:1}"
  "Snake Trap":
    "prefix" : "Snake Trap"
-   "body" : "Snake Trap ${1:2}"
+   "body" : "Snake Trap ${1:1}"
  "Steamwheedle Sniper":
    "prefix" : "Steamwheedle Sniper"
-   "body" : "Steamwheedle Sniper ${1:2}"
+   "body" : "Steamwheedle Sniper ${1:1}"
  "Gladiator's Longbow":
    "prefix" : "Gladiator's Longbow"
-   "body" : "Gladiator's Longbow ${1:2}"
+   "body" : "Gladiator's Longbow ${1:1}"
  "Gahz'rilla":
    "prefix" : "Gahz'rilla"
    "body" : "Gahz'rilla *"
@@ -943,106 +943,106 @@
    "body" : "King Krush *"
  "Arcane Missiles":
    "prefix" : "Arcane Missiles"
-   "body" : "Arcane Missiles ${1:2}"
+   "body" : "Arcane Missiles ${1:1}"
  "Mirror Image":
    "prefix" : "Mirror Image"
-   "body" : "Mirror Image ${1:2}"
+   "body" : "Mirror Image ${1:1}"
  "Arcane Explosion":
    "prefix" : "Arcane Explosion"
-   "body" : "Arcane Explosion ${1:2}"
+   "body" : "Arcane Explosion ${1:1}"
  "Frostbolt":
    "prefix" : "Frostbolt"
-   "body" : "Frostbolt ${1:2}"
+   "body" : "Frostbolt ${1:1}"
  "Arcane Intellect":
    "prefix" : "Arcane Intellect"
-   "body" : "Arcane Intellect ${1:2}"
+   "body" : "Arcane Intellect ${1:1}"
  "Frost Nova":
    "prefix" : "Frost Nova"
-   "body" : "Frost Nova ${1:2}"
+   "body" : "Frost Nova ${1:1}"
  "Fireball":
    "prefix" : "Fireball"
-   "body" : "Fireball ${1:2}"
+   "body" : "Fireball ${1:1}"
  "Polymorph":
    "prefix" : "Polymorph"
-   "body" : "Polymorph ${1:2}"
+   "body" : "Polymorph ${1:1}"
  "Water Elemental":
    "prefix" : "Water Elemental"
-   "body" : "Water Elemental ${1:2}"
+   "body" : "Water Elemental ${1:1}"
  "Flamestrike":
    "prefix" : "Flamestrike"
-   "body" : "Flamestrike ${1:2}"
+   "body" : "Flamestrike ${1:1}"
  "Ice Lance":
    "prefix" : "Ice Lance"
-   "body" : "Ice Lance ${1:2}"
+   "body" : "Ice Lance ${1:1}"
  "Mana Wyrm":
    "prefix" : "Mana Wyrm"
-   "body" : "Mana Wyrm ${1:2}"
+   "body" : "Mana Wyrm ${1:1}"
  "Flamecannon":
    "prefix" : "Flamecannon"
-   "body" : "Flamecannon ${1:2}"
+   "body" : "Flamecannon ${1:1}"
  "Snowchugger":
    "prefix" : "Snowchugger"
-   "body" : "Snowchugger ${1:2}"
+   "body" : "Snowchugger ${1:1}"
  "Sorcerer's Apprentice":
    "prefix" : "Sorcerer's Apprentice"
-   "body" : "Sorcerer's Apprentice ${1:2}"
+   "body" : "Sorcerer's Apprentice ${1:1}"
  "Duplicate":
    "prefix" : "Duplicate"
-   "body" : "Duplicate ${1:2}"
+   "body" : "Duplicate ${1:1}"
  "Ice Barrier":
    "prefix" : "Ice Barrier"
-   "body" : "Ice Barrier ${1:2}"
+   "body" : "Ice Barrier ${1:1}"
  "Mirror Entity":
    "prefix" : "Mirror Entity"
-   "body" : "Mirror Entity ${1:2}"
+   "body" : "Mirror Entity ${1:1}"
  "Cone of Cold":
    "prefix" : "Cone of Cold"
-   "body" : "Cone of Cold ${1:2}"
+   "body" : "Cone of Cold ${1:1}"
  "Dragon's Breath":
    "prefix" : "Dragon's Breath"
-   "body" : "Dragon's Breath ${1:2}"
+   "body" : "Dragon's Breath ${1:1}"
  "Unstable Portal":
    "prefix" : "Unstable Portal"
-   "body" : "Unstable Portal ${1:2}"
+   "body" : "Unstable Portal ${1:1}"
  "Counterspell":
    "prefix" : "Counterspell"
-   "body" : "Counterspell ${1:2}"
+   "body" : "Counterspell ${1:1}"
  "Flamewaker":
    "prefix" : "Flamewaker"
-   "body" : "Flamewaker ${1:2}"
+   "body" : "Flamewaker ${1:1}"
  "Kirin Tor Mage":
    "prefix" : "Kirin Tor Mage"
-   "body" : "Kirin Tor Mage ${1:2}"
+   "body" : "Kirin Tor Mage ${1:1}"
  "Soot Spewer":
    "prefix" : "Soot Spewer"
-   "body" : "Soot Spewer ${1:2}"
+   "body" : "Soot Spewer ${1:1}"
  "Vaporize":
    "prefix" : "Vaporize"
-   "body" : "Vaporize ${1:2}"
+   "body" : "Vaporize ${1:1}"
  "Ethereal Arcanist":
    "prefix" : "Ethereal Arcanist"
-   "body" : "Ethereal Arcanist ${1:2}"
+   "body" : "Ethereal Arcanist ${1:1}"
  "Goblin Blastmage":
    "prefix" : "Goblin Blastmage"
-   "body" : "Goblin Blastmage ${1:2}"
+   "body" : "Goblin Blastmage ${1:1}"
  "Blizzard":
    "prefix" : "Blizzard"
-   "body" : "Blizzard ${1:2}"
+   "body" : "Blizzard ${1:1}"
  "Ice Block":
    "prefix" : "Ice Block"
-   "body" : "Ice Block ${1:2}"
+   "body" : "Ice Block ${1:1}"
  "Spellbender":
    "prefix" : "Spellbender"
-   "body" : "Spellbender ${1:2}"
+   "body" : "Spellbender ${1:1}"
  "Echo of Medivh":
    "prefix" : "Echo of Medivh"
-   "body" : "Echo of Medivh ${1:2}"
+   "body" : "Echo of Medivh ${1:1}"
  "Wee Spellstopper":
    "prefix" : "Wee Spellstopper"
-   "body" : "Wee Spellstopper ${1:2}"
+   "body" : "Wee Spellstopper ${1:1}"
  "Pyroblast":
    "prefix" : "Pyroblast"
-   "body" : "Pyroblast ${1:2}"
+   "body" : "Pyroblast ${1:1}"
  "Archmage Antonidas":
    "prefix" : "Archmage Antonidas"
    "body" : "Archmage Antonidas *"
@@ -1051,106 +1051,106 @@
    "body" : "Flame Leviathan *"
  "Blessing of Might":
    "prefix" : "Blessing of Might"
-   "body" : "Blessing of Might ${1:2}"
+   "body" : "Blessing of Might ${1:1}"
  "Hand of Protection":
    "prefix" : "Hand of Protection"
-   "body" : "Hand of Protection ${1:2}"
+   "body" : "Hand of Protection ${1:1}"
  "Humility":
    "prefix" : "Humility"
-   "body" : "Humility ${1:2}"
+   "body" : "Humility ${1:1}"
  "Light's Justice":
    "prefix" : "Light's Justice"
-   "body" : "Light's Justice ${1:2}"
+   "body" : "Light's Justice ${1:1}"
  "Holy Light":
    "prefix" : "Holy Light"
-   "body" : "Holy Light ${1:2}"
+   "body" : "Holy Light ${1:1}"
  "Blessing of Kings":
    "prefix" : "Blessing of Kings"
-   "body" : "Blessing of Kings ${1:2}"
+   "body" : "Blessing of Kings ${1:1}"
  "Consecration":
    "prefix" : "Consecration"
-   "body" : "Consecration ${1:2}"
+   "body" : "Consecration ${1:1}"
  "Hammer of Wrath":
    "prefix" : "Hammer of Wrath"
-   "body" : "Hammer of Wrath ${1:2}"
+   "body" : "Hammer of Wrath ${1:1}"
  "Truesilver Champion":
    "prefix" : "Truesilver Champion"
-   "body" : "Truesilver Champion ${1:2}"
+   "body" : "Truesilver Champion ${1:1}"
  "Guardian of Kings":
    "prefix" : "Guardian of Kings"
-   "body" : "Guardian of Kings ${1:2}"
+   "body" : "Guardian of Kings ${1:1}"
  "Avenge":
    "prefix" : "Avenge"
-   "body" : "Avenge ${1:2}"
+   "body" : "Avenge ${1:1}"
  "Blessing of Wisdom":
    "prefix" : "Blessing of Wisdom"
-   "body" : "Blessing of Wisdom ${1:2}"
+   "body" : "Blessing of Wisdom ${1:1}"
  "Eye for an Eye":
    "prefix" : "Eye for an Eye"
-   "body" : "Eye for an Eye ${1:2}"
+   "body" : "Eye for an Eye ${1:1}"
  "Noble Sacrifice":
    "prefix" : "Noble Sacrifice"
-   "body" : "Noble Sacrifice ${1:2}"
+   "body" : "Noble Sacrifice ${1:1}"
  "Redemption":
    "prefix" : "Redemption"
-   "body" : "Redemption ${1:2}"
+   "body" : "Redemption ${1:1}"
  "Repentance":
    "prefix" : "Repentance"
-   "body" : "Repentance ${1:2}"
+   "body" : "Repentance ${1:1}"
  "Argent Protector":
    "prefix" : "Argent Protector"
-   "body" : "Argent Protector ${1:2}"
+   "body" : "Argent Protector ${1:1}"
  "Seal of Light":
    "prefix" : "Seal of Light"
-   "body" : "Seal of Light ${1:2}"
+   "body" : "Seal of Light ${1:1}"
  "Shielded Minibot":
    "prefix" : "Shielded Minibot"
-   "body" : "Shielded Minibot ${1:2}"
+   "body" : "Shielded Minibot ${1:1}"
  "Solemn Vigil":
    "prefix" : "Solemn Vigil"
-   "body" : "Solemn Vigil ${1:2}"
+   "body" : "Solemn Vigil ${1:1}"
  "Equality":
    "prefix" : "Equality"
-   "body" : "Equality ${1:2}"
+   "body" : "Equality ${1:1}"
  "Aldor Peacekeeper":
    "prefix" : "Aldor Peacekeeper"
-   "body" : "Aldor Peacekeeper ${1:2}"
+   "body" : "Aldor Peacekeeper ${1:1}"
  "Divine Favor":
    "prefix" : "Divine Favor"
-   "body" : "Divine Favor ${1:2}"
+   "body" : "Divine Favor ${1:1}"
  "Muster for Battle":
    "prefix" : "Muster for Battle"
-   "body" : "Muster for Battle ${1:2}"
+   "body" : "Muster for Battle ${1:1}"
  "Scarlet Purifier":
    "prefix" : "Scarlet Purifier"
-   "body" : "Scarlet Purifier ${1:2}"
+   "body" : "Scarlet Purifier ${1:1}"
  "Blessed Champion":
    "prefix" : "Blessed Champion"
-   "body" : "Blessed Champion ${1:2}"
+   "body" : "Blessed Champion ${1:1}"
  "Cobalt Guardian":
    "prefix" : "Cobalt Guardian"
-   "body" : "Cobalt Guardian ${1:2}"
+   "body" : "Cobalt Guardian ${1:1}"
  "Dragon Consort":
    "prefix" : "Dragon Consort"
-   "body" : "Dragon Consort ${1:2}"
+   "body" : "Dragon Consort ${1:1}"
  "Holy Wrath":
    "prefix" : "Holy Wrath"
-   "body" : "Holy Wrath ${1:2}"
+   "body" : "Holy Wrath ${1:1}"
  "Coghammer":
    "prefix" : "Coghammer"
-   "body" : "Coghammer ${1:2}"
+   "body" : "Coghammer ${1:1}"
  "Sword of Justice":
    "prefix" : "Sword of Justice"
-   "body" : "Sword of Justice ${1:2}"
+   "body" : "Sword of Justice ${1:1}"
  "Quartermaster":
    "prefix" : "Quartermaster"
-   "body" : "Quartermaster ${1:2}"
+   "body" : "Quartermaster ${1:1}"
  "Avenging Wrath":
    "prefix" : "Avenging Wrath"
-   "body" : "Avenging Wrath ${1:2}"
+   "body" : "Avenging Wrath ${1:1}"
  "Lay on Hands":
    "prefix" : "Lay on Hands"
-   "body" : "Lay on Hands ${1:2}"
+   "body" : "Lay on Hands ${1:1}"
  "Bolvar Fordragon":
    "prefix" : "Bolvar Fordragon"
    "body" : "Bolvar Fordragon *"
@@ -1159,106 +1159,106 @@
    "body" : "Tirion Fordring *"
  "Holy Smite":
    "prefix" : "Holy Smite"
-   "body" : "Holy Smite ${1:2}"
+   "body" : "Holy Smite ${1:1}"
  "Mind Vision":
    "prefix" : "Mind Vision"
-   "body" : "Mind Vision ${1:2}"
+   "body" : "Mind Vision ${1:1}"
  "Northshire Cleric":
    "prefix" : "Northshire Cleric"
-   "body" : "Northshire Cleric ${1:2}"
+   "body" : "Northshire Cleric ${1:1}"
  "Power Word: Shield":
    "prefix" : "Power Word: Shield"
-   "body" : "Power Word: Shield ${1:2}"
+   "body" : "Power Word: Shield ${1:1}"
  "Divine Spirit":
    "prefix" : "Divine Spirit"
-   "body" : "Divine Spirit ${1:2}"
+   "body" : "Divine Spirit ${1:1}"
  "Mind Blast":
    "prefix" : "Mind Blast"
-   "body" : "Mind Blast ${1:2}"
+   "body" : "Mind Blast ${1:1}"
  "Shadow Word: Pain":
    "prefix" : "Shadow Word: Pain"
-   "body" : "Shadow Word: Pain ${1:2}"
+   "body" : "Shadow Word: Pain ${1:1}"
  "Shadow Word: Death":
    "prefix" : "Shadow Word: Death"
-   "body" : "Shadow Word: Death ${1:2}"
+   "body" : "Shadow Word: Death ${1:1}"
  "Holy Nova":
    "prefix" : "Holy Nova"
-   "body" : "Holy Nova ${1:2}"
+   "body" : "Holy Nova ${1:1}"
  "Mind Control":
    "prefix" : "Mind Control"
-   "body" : "Mind Control ${1:2}"
+   "body" : "Mind Control ${1:1}"
  "Circle of Healing":
    "prefix" : "Circle of Healing"
-   "body" : "Circle of Healing ${1:2}"
+   "body" : "Circle of Healing ${1:1}"
  "Silence":
    "prefix" : "Silence"
-   "body" : "Silence ${1:2}"
+   "body" : "Silence ${1:1}"
  "Inner Fire":
    "prefix" : "Inner Fire"
-   "body" : "Inner Fire ${1:2}"
+   "body" : "Inner Fire ${1:1}"
  "Twilight Whelp":
    "prefix" : "Twilight Whelp"
-   "body" : "Twilight Whelp ${1:2}"
+   "body" : "Twilight Whelp ${1:1}"
  "Shrinkmeister":
    "prefix" : "Shrinkmeister"
-   "body" : "Shrinkmeister ${1:2}"
+   "body" : "Shrinkmeister ${1:1}"
  "Dark Cultist":
    "prefix" : "Dark Cultist"
-   "body" : "Dark Cultist ${1:2}"
+   "body" : "Dark Cultist ${1:1}"
  "Thoughtsteal":
    "prefix" : "Thoughtsteal"
-   "body" : "Thoughtsteal ${1:2}"
+   "body" : "Thoughtsteal ${1:1}"
  "Velen's Chosen":
    "prefix" : "Velen's Chosen"
-   "body" : "Velen's Chosen ${1:2}"
+   "body" : "Velen's Chosen ${1:1}"
  "Lightspawn":
    "prefix" : "Lightspawn"
-   "body" : "Lightspawn ${1:2}"
+   "body" : "Lightspawn ${1:1}"
  "Temple Enforcer":
    "prefix" : "Temple Enforcer"
-   "body" : "Temple Enforcer ${1:2}"
+   "body" : "Temple Enforcer ${1:1}"
  "Light of the Naaru":
    "prefix" : "Light of the Naaru"
-   "body" : "Light of the Naaru ${1:2}"
+   "body" : "Light of the Naaru ${1:1}"
  "Lightwell":
    "prefix" : "Lightwell"
-   "body" : "Lightwell ${1:2}"
+   "body" : "Lightwell ${1:1}"
  "Resurrect":
    "prefix" : "Resurrect"
-   "body" : "Resurrect ${1:2}"
+   "body" : "Resurrect ${1:1}"
  "Shadowboxer":
    "prefix" : "Shadowboxer"
-   "body" : "Shadowboxer ${1:2}"
+   "body" : "Shadowboxer ${1:1}"
  "Auchenai Soulpriest":
    "prefix" : "Auchenai Soulpriest"
-   "body" : "Auchenai Soulpriest ${1:2}"
+   "body" : "Auchenai Soulpriest ${1:1}"
  "Mass Dispel":
    "prefix" : "Mass Dispel"
-   "body" : "Mass Dispel ${1:2}"
+   "body" : "Mass Dispel ${1:1}"
  "Shadow Madness":
    "prefix" : "Shadow Madness"
-   "body" : "Shadow Madness ${1:2}"
+   "body" : "Shadow Madness ${1:1}"
  "Upgraded Repair Bot":
    "prefix" : "Upgraded Repair Bot"
-   "body" : "Upgraded Repair Bot ${1:2}"
+   "body" : "Upgraded Repair Bot ${1:1}"
  "Holy Fire":
    "prefix" : "Holy Fire"
-   "body" : "Holy Fire ${1:2}"
+   "body" : "Holy Fire ${1:1}"
  "Shadowbomber":
    "prefix" : "Shadowbomber"
-   "body" : "Shadowbomber ${1:2}"
+   "body" : "Shadowbomber ${1:1}"
  "Shadowform":
    "prefix" : "Shadowform"
-   "body" : "Shadowform ${1:2}"
+   "body" : "Shadowform ${1:1}"
  "Mindgames":
    "prefix" : "Mindgames"
-   "body" : "Mindgames ${1:2}"
+   "body" : "Mindgames ${1:1}"
  "Cabal Shadow Priest":
    "prefix" : "Cabal Shadow Priest"
-   "body" : "Cabal Shadow Priest ${1:2}"
+   "body" : "Cabal Shadow Priest ${1:1}"
  "Lightbomb":
    "prefix" : "Lightbomb"
-   "body" : "Lightbomb ${1:2}"
+   "body" : "Lightbomb ${1:1}"
  "Vol'jin":
    "prefix" : "Vol'jin"
    "body" : "Vol'jin *"
@@ -1267,106 +1267,106 @@
    "body" : "Prophet Velen *"
  "Backstab":
    "prefix" : "Backstab"
-   "body" : "Backstab ${1:2}"
+   "body" : "Backstab ${1:1}"
  "Deadly Poison":
    "prefix" : "Deadly Poison"
-   "body" : "Deadly Poison ${1:2}"
+   "body" : "Deadly Poison ${1:1}"
  "Sinister Strike":
    "prefix" : "Sinister Strike"
-   "body" : "Sinister Strike ${1:2}"
+   "body" : "Sinister Strike ${1:1}"
  "Sap":
    "prefix" : "Sap"
-   "body" : "Sap ${1:2}"
+   "body" : "Sap ${1:1}"
  "Shiv":
    "prefix" : "Shiv"
-   "body" : "Shiv ${1:2}"
+   "body" : "Shiv ${1:1}"
  "Fan of Knives":
    "prefix" : "Fan of Knives"
-   "body" : "Fan of Knives ${1:2}"
+   "body" : "Fan of Knives ${1:1}"
  "Assassin's Blade":
    "prefix" : "Assassin's Blade"
-   "body" : "Assassin's Blade ${1:2}"
+   "body" : "Assassin's Blade ${1:1}"
  "Assassinate":
    "prefix" : "Assassinate"
-   "body" : "Assassinate ${1:2}"
+   "body" : "Assassinate ${1:1}"
  "Vanish":
    "prefix" : "Vanish"
-   "body" : "Vanish ${1:2}"
+   "body" : "Vanish ${1:1}"
  "Sprint":
    "prefix" : "Sprint"
-   "body" : "Sprint ${1:2}"
+   "body" : "Sprint ${1:1}"
  "Shadowstep":
    "prefix" : "Shadowstep"
-   "body" : "Shadowstep ${1:2}"
+   "body" : "Shadowstep ${1:1}"
  "Cold Blood":
    "prefix" : "Cold Blood"
-   "body" : "Cold Blood ${1:2}"
+   "body" : "Cold Blood ${1:1}"
  "Conceal":
    "prefix" : "Conceal"
-   "body" : "Conceal ${1:2}"
+   "body" : "Conceal ${1:1}"
  "Betrayal":
    "prefix" : "Betrayal"
-   "body" : "Betrayal ${1:2}"
+   "body" : "Betrayal ${1:1}"
  "Defias Ringleader":
    "prefix" : "Defias Ringleader"
-   "body" : "Defias Ringleader ${1:2}"
+   "body" : "Defias Ringleader ${1:1}"
  "Eviscerate":
    "prefix" : "Eviscerate"
-   "body" : "Eviscerate ${1:2}"
+   "body" : "Eviscerate ${1:1}"
  "Gang Up":
    "prefix" : "Gang Up"
-   "body" : "Gang Up ${1:2}"
+   "body" : "Gang Up ${1:1}"
  "Goblin Auto-Barber":
    "prefix" : "Goblin Auto-Barber"
-   "body" : "Goblin Auto-Barber ${1:2}"
+   "body" : "Goblin Auto-Barber ${1:1}"
  "Anub'ar Ambusher":
    "prefix" : "Anub'ar Ambusher"
-   "body" : "Anub'ar Ambusher ${1:2}"
+   "body" : "Anub'ar Ambusher ${1:1}"
  "Tinker's Sharpsword Oil":
    "prefix" : "Tinker's Sharpsword Oil"
-   "body" : "Tinker's Sharpsword Oil ${1:2}"
+   "body" : "Tinker's Sharpsword Oil ${1:1}"
  "Blade Flurry":
    "prefix" : "Blade Flurry"
-   "body" : "Blade Flurry ${1:2}"
+   "body" : "Blade Flurry ${1:1}"
  "One-Eyed Cheat":
    "prefix" : "One-Eyed Cheat"
-   "body" : "One-Eyed Cheat ${1:2}"
+   "body" : "One-Eyed Cheat ${1:1}"
  "Headcrack":
    "prefix" : "Headcrack"
-   "body" : "Headcrack ${1:2}"
+   "body" : "Headcrack ${1:1}"
  "Iron Sensei":
    "prefix" : "Iron Sensei"
-   "body" : "Iron Sensei ${1:2}"
+   "body" : "Iron Sensei ${1:1}"
  "Perdition's Blade":
    "prefix" : "Perdition's Blade"
-   "body" : "Perdition's Blade ${1:2}"
+   "body" : "Perdition's Blade ${1:1}"
  "SI:7 Agent":
    "prefix" : "SI:7 Agent"
-   "body" : "SI:7 Agent ${1:2}"
+   "body" : "SI:7 Agent ${1:1}"
  "Master of Disguise":
    "prefix" : "Master of Disguise"
-   "body" : "Master of Disguise ${1:2}"
+   "body" : "Master of Disguise ${1:1}"
  "Dark Iron Skulker":
    "prefix" : "Dark Iron Skulker"
-   "body" : "Dark Iron Skulker ${1:2}"
+   "body" : "Dark Iron Skulker ${1:1}"
  "Ogre Ninja":
    "prefix" : "Ogre Ninja"
-   "body" : "Ogre Ninja ${1:2}"
+   "body" : "Ogre Ninja ${1:1}"
  "Preparation":
    "prefix" : "Preparation"
-   "body" : "Preparation ${1:2}"
+   "body" : "Preparation ${1:1}"
  "Patient Assassin":
    "prefix" : "Patient Assassin"
-   "body" : "Patient Assassin ${1:2}"
+   "body" : "Patient Assassin ${1:1}"
  "Cogmaster's Wrench":
    "prefix" : "Cogmaster's Wrench"
-   "body" : "Cogmaster's Wrench ${1:2}"
+   "body" : "Cogmaster's Wrench ${1:1}"
  "Sabotage":
    "prefix" : "Sabotage"
-   "body" : "Sabotage ${1:2}"
+   "body" : "Sabotage ${1:1}"
  "Kidnapper":
    "prefix" : "Kidnapper"
-   "body" : "Kidnapper ${1:2}"
+   "body" : "Kidnapper ${1:1}"
  "Edwin VanCleef":
    "prefix" : "Edwin VanCleef"
    "body" : "Edwin VanCleef *"
@@ -1375,106 +1375,106 @@
    "body" : "Trade Prince Gallywix *"
  "Ancestral Healing":
    "prefix" : "Ancestral Healing"
-   "body" : "Ancestral Healing ${1:2}"
+   "body" : "Ancestral Healing ${1:1}"
  "Totemic Might":
    "prefix" : "Totemic Might"
-   "body" : "Totemic Might ${1:2}"
+   "body" : "Totemic Might ${1:1}"
  "Frost Shock":
    "prefix" : "Frost Shock"
-   "body" : "Frost Shock ${1:2}"
+   "body" : "Frost Shock ${1:1}"
  "Rockbiter Weapon":
    "prefix" : "Rockbiter Weapon"
-   "body" : "Rockbiter Weapon ${1:2}"
+   "body" : "Rockbiter Weapon ${1:1}"
  "Flametongue Totem":
    "prefix" : "Flametongue Totem"
-   "body" : "Flametongue Totem ${1:2}"
+   "body" : "Flametongue Totem ${1:1}"
  "Windfury":
    "prefix" : "Windfury"
-   "body" : "Windfury ${1:2}"
+   "body" : "Windfury ${1:1}"
  "Hex":
    "prefix" : "Hex"
-   "body" : "Hex ${1:2}"
+   "body" : "Hex ${1:1}"
  "Windspeaker":
    "prefix" : "Windspeaker"
-   "body" : "Windspeaker ${1:2}"
+   "body" : "Windspeaker ${1:1}"
  "Bloodlust":
    "prefix" : "Bloodlust"
-   "body" : "Bloodlust ${1:2}"
+   "body" : "Bloodlust ${1:1}"
  "Fire Elemental":
    "prefix" : "Fire Elemental"
-   "body" : "Fire Elemental ${1:2}"
+   "body" : "Fire Elemental ${1:1}"
  "Dust Devil":
    "prefix" : "Dust Devil"
-   "body" : "Dust Devil ${1:2}"
+   "body" : "Dust Devil ${1:1}"
  "Earth Shock":
    "prefix" : "Earth Shock"
-   "body" : "Earth Shock ${1:2}"
+   "body" : "Earth Shock ${1:1}"
  "Forked Lightning":
    "prefix" : "Forked Lightning"
-   "body" : "Forked Lightning ${1:2}"
+   "body" : "Forked Lightning ${1:1}"
  "Lightning Bolt":
    "prefix" : "Lightning Bolt"
-   "body" : "Lightning Bolt ${1:2}"
+   "body" : "Lightning Bolt ${1:1}"
  "Crackle":
    "prefix" : "Crackle"
-   "body" : "Crackle ${1:2}"
+   "body" : "Crackle ${1:1}"
  "Reincarnate":
    "prefix" : "Reincarnate"
-   "body" : "Reincarnate ${1:2}"
+   "body" : "Reincarnate ${1:1}"
  "Stormforged Axe":
    "prefix" : "Stormforged Axe"
-   "body" : "Stormforged Axe ${1:2}"
+   "body" : "Stormforged Axe ${1:1}"
  "Whirling Zap-o-matic":
    "prefix" : "Whirling Zap-o-matic"
-   "body" : "Whirling Zap-o-matic ${1:2}"
+   "body" : "Whirling Zap-o-matic ${1:1}"
  "Unbound Elemental":
    "prefix" : "Unbound Elemental"
-   "body" : "Unbound Elemental ${1:2}"
+   "body" : "Unbound Elemental ${1:1}"
  "Fireguard Destroyer":
    "prefix" : "Fireguard Destroyer"
-   "body" : "Fireguard Destroyer ${1:2}"
+   "body" : "Fireguard Destroyer ${1:1}"
  "Ancestral Spirit":
    "prefix" : "Ancestral Spirit"
-   "body" : "Ancestral Spirit ${1:2}"
+   "body" : "Ancestral Spirit ${1:1}"
  "Lava Shock":
    "prefix" : "Lava Shock"
-   "body" : "Lava Shock ${1:2}"
+   "body" : "Lava Shock ${1:1}"
  "Vitality Totem":
    "prefix" : "Vitality Totem"
-   "body" : "Vitality Totem ${1:2}"
+   "body" : "Vitality Totem ${1:1}"
  "Feral Spirit":
    "prefix" : "Feral Spirit"
-   "body" : "Feral Spirit ${1:2}"
+   "body" : "Feral Spirit ${1:1}"
  "Lava Burst":
    "prefix" : "Lava Burst"
-   "body" : "Lava Burst ${1:2}"
+   "body" : "Lava Burst ${1:1}"
  "Lightning Storm":
    "prefix" : "Lightning Storm"
-   "body" : "Lightning Storm ${1:2}"
+   "body" : "Lightning Storm ${1:1}"
  "Mana Tide Totem":
    "prefix" : "Mana Tide Totem"
-   "body" : "Mana Tide Totem ${1:2}"
+   "body" : "Mana Tide Totem ${1:1}"
  "Powermace":
    "prefix" : "Powermace"
-   "body" : "Powermace ${1:2}"
+   "body" : "Powermace ${1:1}"
  "Dunemaul Shaman":
    "prefix" : "Dunemaul Shaman"
-   "body" : "Dunemaul Shaman ${1:2}"
+   "body" : "Dunemaul Shaman ${1:1}"
  "Far Sight":
    "prefix" : "Far Sight"
-   "body" : "Far Sight ${1:2}"
+   "body" : "Far Sight ${1:1}"
  "Ancestor's Call":
    "prefix" : "Ancestor's Call"
-   "body" : "Ancestor's Call ${1:2}"
+   "body" : "Ancestor's Call ${1:1}"
  "Siltfin Spiritwalker":
    "prefix" : "Siltfin Spiritwalker"
-   "body" : "Siltfin Spiritwalker ${1:2}"
+   "body" : "Siltfin Spiritwalker ${1:1}"
  "Doomhammer":
    "prefix" : "Doomhammer"
-   "body" : "Doomhammer ${1:2}"
+   "body" : "Doomhammer ${1:1}"
  "Earth Elemental":
    "prefix" : "Earth Elemental"
-   "body" : "Earth Elemental ${1:2}"
+   "body" : "Earth Elemental ${1:1}"
  "Neptulon":
    "prefix" : "Neptulon"
    "body" : "Neptulon *"
@@ -1483,106 +1483,106 @@
    "body" : "Al'Akir the Windlord *"
  "Sacrificial Pact":
    "prefix" : "Sacrificial Pact"
-   "body" : "Sacrificial Pact ${1:2}"
+   "body" : "Sacrificial Pact ${1:1}"
  "Corruption":
    "prefix" : "Corruption"
-   "body" : "Corruption ${1:2}"
+   "body" : "Corruption ${1:1}"
  "Mortal Coil":
    "prefix" : "Mortal Coil"
-   "body" : "Mortal Coil ${1:2}"
+   "body" : "Mortal Coil ${1:1}"
  "Soulfire":
    "prefix" : "Soulfire"
-   "body" : "Soulfire ${1:2}"
+   "body" : "Soulfire ${1:1}"
  "Voidwalker":
    "prefix" : "Voidwalker"
-   "body" : "Voidwalker ${1:2}"
+   "body" : "Voidwalker ${1:1}"
  "Succubus":
    "prefix" : "Succubus"
-   "body" : "Succubus ${1:2}"
+   "body" : "Succubus ${1:1}"
  "Drain Life":
    "prefix" : "Drain Life"
-   "body" : "Drain Life ${1:2}"
+   "body" : "Drain Life ${1:1}"
  "Shadow Bolt":
    "prefix" : "Shadow Bolt"
-   "body" : "Shadow Bolt ${1:2}"
+   "body" : "Shadow Bolt ${1:1}"
  "Hellfire":
    "prefix" : "Hellfire"
-   "body" : "Hellfire ${1:2}"
+   "body" : "Hellfire ${1:1}"
  "Dread Infernal":
    "prefix" : "Dread Infernal"
-   "body" : "Dread Infernal ${1:2}"
+   "body" : "Dread Infernal ${1:1}"
  "Blood Imp":
    "prefix" : "Blood Imp"
-   "body" : "Blood Imp ${1:2}"
+   "body" : "Blood Imp ${1:1}"
  "Flame Imp":
    "prefix" : "Flame Imp"
-   "body" : "Flame Imp ${1:2}"
+   "body" : "Flame Imp ${1:1}"
  "Power Overwhelming":
    "prefix" : "Power Overwhelming"
-   "body" : "Power Overwhelming ${1:2}"
+   "body" : "Power Overwhelming ${1:1}"
  "Darkbomb":
    "prefix" : "Darkbomb"
-   "body" : "Darkbomb ${1:2}"
+   "body" : "Darkbomb ${1:1}"
  "Demonfire":
    "prefix" : "Demonfire"
-   "body" : "Demonfire ${1:2}"
+   "body" : "Demonfire ${1:1}"
  "Imp Gang Boss":
    "prefix" : "Imp Gang Boss"
-   "body" : "Imp Gang Boss ${1:2}"
+   "body" : "Imp Gang Boss ${1:1}"
  "Sense Demons":
    "prefix" : "Sense Demons"
-   "body" : "Sense Demons ${1:2}"
+   "body" : "Sense Demons ${1:1}"
  "Summoning Portal":
    "prefix" : "Summoning Portal"
-   "body" : "Summoning Portal ${1:2}"
+   "body" : "Summoning Portal ${1:1}"
  "Voidcaller":
    "prefix" : "Voidcaller"
-   "body" : "Voidcaller ${1:2}"
+   "body" : "Voidcaller ${1:1}"
  "Floating Watcher":
    "prefix" : "Floating Watcher"
-   "body" : "Floating Watcher ${1:2}"
+   "body" : "Floating Watcher ${1:1}"
  "Mistress of Pain":
    "prefix" : "Mistress of Pain"
-   "body" : "Mistress of Pain ${1:2}"
+   "body" : "Mistress of Pain ${1:1}"
  "Demonwrath":
    "prefix" : "Demonwrath"
-   "body" : "Demonwrath ${1:2}"
+   "body" : "Demonwrath ${1:1}"
  "Felguard":
    "prefix" : "Felguard"
-   "body" : "Felguard ${1:2}"
+   "body" : "Felguard ${1:1}"
  "Void Terror":
    "prefix" : "Void Terror"
-   "body" : "Void Terror ${1:2}"
+   "body" : "Void Terror ${1:1}"
  "Fel Cannon":
    "prefix" : "Fel Cannon"
-   "body" : "Fel Cannon ${1:2}"
+   "body" : "Fel Cannon ${1:1}"
  "Imp-losion":
    "prefix" : "Imp-losion"
-   "body" : "Imp-losion ${1:2}"
+   "body" : "Imp-losion ${1:1}"
  "Shadowflame":
    "prefix" : "Shadowflame"
-   "body" : "Shadowflame ${1:2}"
+   "body" : "Shadowflame ${1:1}"
  "Doomguard":
    "prefix" : "Doomguard"
-   "body" : "Doomguard ${1:2}"
+   "body" : "Doomguard ${1:1}"
  "Siphon Soul":
    "prefix" : "Siphon Soul"
-   "body" : "Siphon Soul ${1:2}"
+   "body" : "Siphon Soul ${1:1}"
  "Pit Lord":
    "prefix" : "Pit Lord"
-   "body" : "Pit Lord ${1:2}"
+   "body" : "Pit Lord ${1:1}"
  "Bane of Doom":
    "prefix" : "Bane of Doom"
-   "body" : "Bane of Doom ${1:2}"
+   "body" : "Bane of Doom ${1:1}"
  "Demonheart":
    "prefix" : "Demonheart"
-   "body" : "Demonheart ${1:2}"
+   "body" : "Demonheart ${1:1}"
  "Anima Golem":
    "prefix" : "Anima Golem"
-   "body" : "Anima Golem ${1:2}"
+   "body" : "Anima Golem ${1:1}"
  "Twisting Nether":
    "prefix" : "Twisting Nether"
-   "body" : "Twisting Nether ${1:2}"
+   "body" : "Twisting Nether ${1:1}"
  "Lord Jaraxxus":
    "prefix" : "Lord Jaraxxus"
    "body" : "Lord Jaraxxus *"
@@ -1591,106 +1591,106 @@
    "body" : "Mal'Ganis *"
  "Execute":
    "prefix" : "Execute"
-   "body" : "Execute ${1:2}"
+   "body" : "Execute ${1:1}"
  "Whirlwind":
    "prefix" : "Whirlwind"
-   "body" : "Whirlwind ${1:2}"
+   "body" : "Whirlwind ${1:1}"
  "Cleave":
    "prefix" : "Cleave"
-   "body" : "Cleave ${1:2}"
+   "body" : "Cleave ${1:1}"
  "Fiery War Axe":
    "prefix" : "Fiery War Axe"
-   "body" : "Fiery War Axe ${1:2}"
+   "body" : "Fiery War Axe ${1:1}"
  "Heroic Strike":
    "prefix" : "Heroic Strike"
-   "body" : "Heroic Strike ${1:2}"
+   "body" : "Heroic Strike ${1:1}"
  "Charge":
    "prefix" : "Charge"
-   "body" : "Charge ${1:2}"
+   "body" : "Charge ${1:1}"
  "Shield Block":
    "prefix" : "Shield Block"
-   "body" : "Shield Block ${1:2}"
+   "body" : "Shield Block ${1:1}"
  "Warsong Commander":
    "prefix" : "Warsong Commander"
-   "body" : "Warsong Commander ${1:2}"
+   "body" : "Warsong Commander ${1:1}"
  "Kor'kron Elite":
    "prefix" : "Kor'kron Elite"
-   "body" : "Kor'kron Elite ${1:2}"
+   "body" : "Kor'kron Elite ${1:1}"
  "Arcanite Reaper":
    "prefix" : "Arcanite Reaper"
-   "body" : "Arcanite Reaper ${1:2}"
+   "body" : "Arcanite Reaper ${1:1}"
  "Inner Rage":
    "prefix" : "Inner Rage"
-   "body" : "Inner Rage ${1:2}"
+   "body" : "Inner Rage ${1:1}"
  "Warbot":
    "prefix" : "Warbot"
-   "body" : "Warbot ${1:2}"
+   "body" : "Warbot ${1:1}"
  "Battle Rage":
    "prefix" : "Battle Rage"
-   "body" : "Battle Rage ${1:2}"
+   "body" : "Battle Rage ${1:1}"
  "Cruel Taskmaster":
    "prefix" : "Cruel Taskmaster"
-   "body" : "Cruel Taskmaster ${1:2}"
+   "body" : "Cruel Taskmaster ${1:1}"
  "Rampage":
    "prefix" : "Rampage"
-   "body" : "Rampage ${1:2}"
+   "body" : "Rampage ${1:1}"
  "Slam":
    "prefix" : "Slam"
-   "body" : "Slam ${1:2}"
+   "body" : "Slam ${1:1}"
  "Ogre Warmaul":
    "prefix" : "Ogre Warmaul"
-   "body" : "Ogre Warmaul ${1:2}"
+   "body" : "Ogre Warmaul ${1:1}"
  "Arathi Weaponsmith":
    "prefix" : "Arathi Weaponsmith"
-   "body" : "Arathi Weaponsmith ${1:2}"
+   "body" : "Arathi Weaponsmith ${1:1}"
  "Axe Flinger":
    "prefix" : "Axe Flinger"
-   "body" : "Axe Flinger ${1:2}"
+   "body" : "Axe Flinger ${1:1}"
  "Death's Bite":
    "prefix" : "Death's Bite"
-   "body" : "Death's Bite ${1:2}"
+   "body" : "Death's Bite ${1:1}"
  "Upgrade!":
    "prefix" : "Upgrade!"
-   "body" : "Upgrade! ${1:2}"
+   "body" : "Upgrade! ${1:1}"
  "Armorsmith":
    "prefix" : "Armorsmith"
-   "body" : "Armorsmith ${1:2}"
+   "body" : "Armorsmith ${1:1}"
  "Commanding Shout":
    "prefix" : "Commanding Shout"
-   "body" : "Commanding Shout ${1:2}"
+   "body" : "Commanding Shout ${1:1}"
  "Revenge":
    "prefix" : "Revenge"
-   "body" : "Revenge ${1:2}"
+   "body" : "Revenge ${1:1}"
  "Frothing Berserker":
    "prefix" : "Frothing Berserker"
-   "body" : "Frothing Berserker ${1:2}"
+   "body" : "Frothing Berserker ${1:1}"
  "Mortal Strike":
    "prefix" : "Mortal Strike"
-   "body" : "Mortal Strike ${1:2}"
+   "body" : "Mortal Strike ${1:1}"
  "Screwjank Clunker":
    "prefix" : "Screwjank Clunker"
-   "body" : "Screwjank Clunker ${1:2}"
+   "body" : "Screwjank Clunker ${1:1}"
  "Siege Engine":
    "prefix" : "Siege Engine"
-   "body" : "Siege Engine ${1:2}"
+   "body" : "Siege Engine ${1:1}"
  "Shieldmaiden":
    "prefix" : "Shieldmaiden"
-   "body" : "Shieldmaiden ${1:2}"
+   "body" : "Shieldmaiden ${1:1}"
  "Shield Slam":
    "prefix" : "Shield Slam"
-   "body" : "Shield Slam ${1:2}"
+   "body" : "Shield Slam ${1:1}"
  "Bouncing Blade":
    "prefix" : "Bouncing Blade"
-   "body" : "Bouncing Blade ${1:2}"
+   "body" : "Bouncing Blade ${1:1}"
  "Brawl":
    "prefix" : "Brawl"
-   "body" : "Brawl ${1:2}"
+   "body" : "Brawl ${1:1}"
  "Crush":
    "prefix" : "Crush"
-   "body" : "Crush ${1:2}"
+   "body" : "Crush ${1:1}"
  "Gorehowl":
    "prefix" : "Gorehowl"
-   "body" : "Gorehowl ${1:2}"
+   "body" : "Gorehowl ${1:1}"
  "Iron Juggernaut":
    "prefix" : "Iron Juggernaut"
    "body" : "Iron Juggernaut *"
