@@ -1,4 +1,4 @@
-"*" : 
+".text.plain" : 
  "Elven Archer":
    "prefix" : "Elven Archer"
    "body" : "Elven Archer ${1:1}"

@@ -4,7 +4,7 @@ exec scala "$0" "$@"
 import scala.io.Source
 
 val lines = Source.fromFile("cards").getLines.toList
-println(""""*" :""")
+println("""".text.plain" :""")
 
 lines.foreach {line =>
   val items = line.split("\t")
